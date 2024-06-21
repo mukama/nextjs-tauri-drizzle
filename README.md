@@ -1,6 +1,4 @@
-NextJS + TailwindCSS + TypeScript + ESLint + Prettier + Jest + React Testing Library
-
-## NextJS + Tauri + SQLite + Drizzle
+## NextJS + Tauri + SQLite + Drizzle with migrations
 
 Install dependencies:
 
